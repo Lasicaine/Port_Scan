@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("AlexDevTeam")]
 [assembly: AssemblyProduct("PortScan")]
-[assembly: AssemblyCopyright("Copyright 2011")]
+[assembly: AssemblyCopyright("Copyright Alex Antomonov © 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
